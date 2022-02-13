@@ -20,3 +20,5 @@ Añadir nueva "Run configuration" en eclipse:
 
 -BD usada: SQLLite
 -Otras tecnologias usadas: Maven
+
+-Trello: https://trello.com/b/suR04uXs/hackathon-mwc-febrero-2022
